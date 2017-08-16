@@ -30,9 +30,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UNUserNotificationCenterD
     
     
 
-    let Tune_Advertiser_Id   = "192589"
-    let Tune_Conversion_Key  = "93b5edec5ee313fcb7c0c58e393e0885"
-    let Tune_Package_Name = "TuneSmartwhereIntegration"
+    let Tune_Advertiser_Id   = "your Tune Advertiser ID"
+    let Tune_Conversion_Key  = "your Tune Conversion Key"
+    let Tune_Package_Name = "your Package Name - should match Tune TMC settings"
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
